@@ -1,2 +1,2 @@
 # PCB-portfolio
-This repository contains several gerber files with different PCB designs that I have made during my studies.
+This repository contains several schematics and gerber files with different hardware designs that I have made during my studies.
